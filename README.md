@@ -6,4 +6,4 @@ Staff Engineer, Developer Relations at [Edge Impulse](https://edgeimpulse.com/) 
 
 🌐 [jennyspeelman.me](https://jennyspeelman.me/) · 💼 [LinkedIn](https://www.linkedin.com/in/jennyplunkett) · 🐘 [Mastodon](https://mastodon.world/@jennyp)
 
-<p><a href="https://jennyspeelman.me/"><img src="assets/badges/jenny98.png" width="88" alt="Jenny 98 ready"></a> <a href="https://edgeimpulse.com/"><img src="assets/badges/edge-ai.png" width="88" alt="Powered by Edge AI"></a> <a href="https://jennyspeelman.me/"><img src="assets/badges/800x600.png" width="88" alt="Best viewed in 800×600"></a></p>
+<p><a href="https://jennyspeelman.me/"><img src="assets/badges/jenny98.png" width="88" alt="Jenny 98 ready"></a> <a href="https://edgeimpulse.com/"><img src="assets/badges/edge-ai.png" width="88" alt="Powered by Edge AI"></a> <a href="https://jennyspeelman.me/"><img src="assets/badges/800x600.png" width="88" alt="Best viewed in 800×600"></a> <a href="https://jennyspeelman.me/"><img src="assets/badges/construction.png" width="88" alt="Under construction"></a></p>
